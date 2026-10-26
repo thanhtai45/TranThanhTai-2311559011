@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TranThanhTai_2311559011
 
@@ -22,3 +23,6 @@ và quản lý phiên bản bằng Git.
 ## Cách chạy
 python lab1_encoding.py
 python lab1_file_formats.py
+=======
+# TranThanhTai-2311559011
+>>>>>>> bdcaa2ad88944909eeb917bc7f452466f9b7f38d
